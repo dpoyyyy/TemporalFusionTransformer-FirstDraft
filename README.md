@@ -56,7 +56,7 @@ The model architecture is especially suitable for complex time-series with a mix
 ## Notes
 
 - This version is a **proof of concept** and will evolve.
-- TThe original dataset used for training this model is private and is not available in this repository due to confidentiality.
+- The original dataset used for training this model is private and is not available in this repository due to confidentiality.
 
 ## License
 
