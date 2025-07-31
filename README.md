@@ -61,3 +61,5 @@ The model architecture is especially suitable for complex time-series with a mix
 ## License
 
 MIT License
+[MIT License](./LICENSE)
+
