@@ -6,13 +6,12 @@ This is a **mockup / initial prototype** implementation of the Temporal Fusion T
 
 The project focuses on applying the TFT architecture to a weather dataset. This version includes:
 
-- Basic data preprocessing
 - Simple TFT structure
 - Placeholder model structure and logic
 
 > Note: This is the **first version** and is intended for testing and planning purposes.
 
-The original dataset used for training this model is private and is not available in this repository due to confidentiality.
+The original dataset is private.
 
 ## What is the Temporal Fusion Transformer (TFT)?
 
@@ -57,7 +56,7 @@ The model architecture is especially suitable for complex time-series with a mix
 ## Notes
 
 - This version is a **proof of concept** and will evolve.
-- The dataset and hyperparameters are still under development.
+- TThe original dataset used for training this model is private and is not available in this repository due to confidentiality.
 
 ## License
 
